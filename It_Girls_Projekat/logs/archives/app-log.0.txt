@@ -1,0 +1,5 @@
+2019-04-12 00:33:44.8583|INFO|It_Girls_Projekat.Controllers.TeachersController|Requesting teachers
+2019-04-12 16:03:54.8240|INFO|It_Girls_Projekat.Controllers.TeachersController|Requesting teachers
+2019-04-12 16:12:16.6024|INFO|It_Girls_Projekat.Controllers.ParentController|Requesting parents
+2019-04-12 16:57:54.2580|INFO|It_Girls_Projekat.Controllers.TeachersController|Requesting teachers
+2019-04-12 17:06:46.3483|INFO|It_Girls_Projekat.Controllers.TeachersController|Requesting teachers

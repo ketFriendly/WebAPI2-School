@@ -1,0 +1,5 @@
+2019-03-31 19:11:33.3695|ERROR|It_Girls_Projekat.Controllers.SubjectsController|Cannot drop database "db_it_girls_project" because it is currently in use.
+2019-03-31 19:15:09.3612|ERROR|It_Girls_Projekat.Controllers.SubjectsController|Cannot drop database "db_it_girls_project" because it is currently in use.
+2019-03-31 19:16:07.1869|ERROR|It_Girls_Projekat.Controllers.SubjectsController|Cannot drop database "db_it_girls_project" because it is currently in use.
+2019-03-31 19:17:05.7068|ERROR|It_Girls_Projekat.Controllers.SubjectsController|Cannot drop database "db_it_girls_project" because it is currently in use.
+2019-03-31 19:18:08.1304|ERROR|It_Girls_Projekat.Controllers.SubjectsController|Cannot drop database "db_it_girls_project" because it is currently in use.

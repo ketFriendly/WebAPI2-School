@@ -1,0 +1,17 @@
+2019-04-05 00:19:45.7327|ERROR|It_Girls_Projekat.Controllers.MarksController|Cannot drop database "db_it_girls_project" because it is currently in use.
+2019-04-05 00:26:04.5305|ERROR|It_Girls_Projekat.Controllers.MarksController|Cannot drop database "db_it_girls_project" because it is currently in use.
+2019-04-05 00:30:07.5050|INFO|It_Girls_Projekat.Controllers.TeachersController|Requesting usernames
+2019-04-05 20:32:16.3572|INFO|It_Girls_Projekat.Controllers.TeachersController|Requesting usernames
+2019-04-05 23:08:12.2059|ERROR|It_Girls_Projekat.Controllers.StudentsController|The type of one of the primary key values did not match the type defined in the entity. See inner exception for details.
+Parameter name: keyValues
+2019-04-05 23:08:17.2842|ERROR|It_Girls_Projekat.Controllers.StudentsController|The type of one of the primary key values did not match the type defined in the entity. See inner exception for details.
+Parameter name: keyValues
+2019-04-05 23:10:09.7380|ERROR|It_Girls_Projekat.Controllers.StudentsController|The type of one of the primary key values did not match the type defined in the entity. See inner exception for details.
+Parameter name: keyValues
+2019-04-05 23:11:14.7254|ERROR|It_Girls_Projekat.Controllers.StudentsController|The type of one of the primary key values did not match the type defined in the entity. See inner exception for details.
+Parameter name: keyValues
+2019-04-05 23:12:20.0106|ERROR|It_Girls_Projekat.Controllers.StudentsController|The type of one of the primary key values did not match the type defined in the entity. See inner exception for details.
+Parameter name: keyValues
+2019-04-05 23:15:38.0460|ERROR|It_Girls_Projekat.Controllers.StudentsController|The type of one of the primary key values did not match the type defined in the entity. See inner exception for details.
+Parameter name: keyValues
+2019-04-05 23:18:15.5317|ERROR|It_Girls_Projekat.Controllers.StudentsController|An error occurred while updating the entries. See the inner exception for details.
